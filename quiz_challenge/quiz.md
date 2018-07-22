@@ -5,16 +5,6 @@ If you did not get to this quiz from the correct link, the questions will **NOT*
 
 In this challenge, you will learn the basics of building accessible Web sites by answering 10 questions. Feel free to use search to find answers. At the end, you will use the answers you provided to move on to the third and final challenge.
 
-1.	When color is used to convey information on a Web page, color blindness must be taken into account. For example, required fields might be highlighted in red, but those fields should also be marked with asterisks or other identifiers. The most common type of color blindness is red-green deficiency, which makes it difficult to distinguish between red and green. What percentage of the population is affected by red-green deficiency?
-
-    a) Less than 1%
-
-    b) Around 2%
-
-    c) Around 4%
-
-    d) Around 8%
-
 1.	Screen readers generally can’t comprehend information in images, even though artificial intelligence (AI) is breaking down such barriers. For now, which of the following steps should a Web designer take to ensure that screen readers can convey useful information from images?
 
     a) Avoid the use of `<img>` elements and use `<canvas>` elements instead
@@ -25,15 +15,15 @@ In this challenge, you will learn the basics of building accessible Web sites by
     
     d) Include an alt attribute in every `<img>` element
 
-1.	Which of the following statements regarding the use of `<table>` elements in accessible Web pages is true?
+1.	When color is used to convey information on a Web page, color blindness must be taken into account. For example, required fields might be highlighted in red, but those fields should also be marked with asterisks or other identifiers. The most common type of color blindness is red-green deficiency, which makes it difficult to distinguish between red and green. What percentage of the population is affected by red-green deficiency?
 
-    a) Do not use `<table>` elements
+    a) Less than 1%
 
-    b) Use `<table>` for layout but not to display tabular data
+    b) Around 2%
 
-    c) Use `<table>` to display tabular data but not for layout
+    c) Around 4%
 
-    d) Do not include `<th>` elements in tables
+    d) Around 8%
 
 1.	Which of the following statements regarding the use of `<h1>` elements in accessible Web pages is true?
 
@@ -44,6 +34,16 @@ In this challenge, you will learn the basics of building accessible Web sites by
     c) The page may contain multiple `<h1>` elements
 
     d) None of the above
+
+1.	Which of the following statements regarding the use of `<table>` elements in accessible Web pages is true?
+
+    a) Do not use `<table>` elements
+
+    b) Use `<table>` for layout but not to display tabular data
+
+    c) Use `<table>` to display tabular data but not for layout
+
+    d) Do not include `<th>` elements in tables
 
 1.	An important principle of accessible design is designing forms for accessibility. Which of the following is NOT a technique for making forms accessible?
 
@@ -65,26 +65,6 @@ In this challenge, you will learn the basics of building accessible Web sites by
 
     d) Put people at the center of the design process
 
-1.	Accessible Rich Internet Applications (ARIA) is a specification that defines a set of attributes that can be attached to HTML elements to convey additional information about those elements and make them more accessible. Which of the following ARIA attributes can be used to hide elements from screen readers?
-
-    a) `aria-hide`
-
-    b) `aria-hidden`
-
-    c) `aria-cloak`
-
-    d) `role`
-
-1.	Which of the following ARIA attributes can be used to identify a region of a page that receives live (and potentially frequent) updates?
-
-    a) `aria-live`
-
-    b) `aria-dynamic`
-
-    c) `aria-ignore`
-
-    d) None of the above
-
 1.	One technique for making Web sites that include videos accessible to hearing-impaired users is to close-caption the videos, something that Azure Video Indexer simplifies by generating transcripts and closed-caption files from video content. Which of the following closed-captioning formats does Video Indexer support?
 
     a) Synchronized Accessible Media Exchange (SAMI)
@@ -102,6 +82,26 @@ In this challenge, you will learn the basics of building accessible Web sites by
     b) `<ttml>`
 
     c) `<track>`
+
+    d) None of the above
+
+1.	Accessible Rich Internet Applications (ARIA) is a specification that defines a set of attributes that can be attached to HTML elements to convey additional information about those elements and make them more accessible. Which of the following ARIA attributes can be used to hide elements from screen readers?
+
+    a) `aria-hide`
+
+    b) `aria-hidden`
+
+    c) `aria-cloak`
+
+    d) `role`
+
+1.	Which of the following ARIA attributes can be used to identify a region of a page that receives live (and potentially frequent) updates?
+
+    a) `aria-live`
+
+    b) `aria-dynamic`
+
+    c) `aria-ignore`
 
     d) None of the above
 
