@@ -107,7 +107,7 @@ In this challenge, you will learn the basics of building accessible Web sites by
 
 ---
 
-Once you have answered all 10 questions, note down the letters corresponding to the correct answers (a, b, c, or d) in order.
+Once you have answered all 10 questions, note down the letters corresponding to the correct answers (a, b, c, or d) **in order**.
 									
 Now pull up a browser and go to `aka.ms/<answers>`, where `<answers>` is the 10 letters you wrote down – for example, aka.ms/abcdabcdab. There you will find a puzzle to solve as the third and final challenge.
 
