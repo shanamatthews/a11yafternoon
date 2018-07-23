@@ -1,8 +1,5 @@
 # Tech challenge #2 quiz.
 
-## !! Warning !!
-If you did not get to this quiz from the correct link, the questions will **NOT** be in the right order, and you will NOT be able to move on to Tech Challenge #3 even if you get all of the questions right!
-
 In this challenge, you will learn the basics of building accessible Web sites by answering 10 questions. Feel free to use search to find answers. At the end, you will use the answers you provided to move on to the third and final challenge.
 
 1.	Screen readers generally can’t comprehend information in images, even though artificial intelligence (AI) is breaking down such barriers. For now, which of the following steps should a Web designer take to ensure that screen readers can convey useful information from images?
