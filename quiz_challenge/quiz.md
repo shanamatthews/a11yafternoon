@@ -2,7 +2,7 @@
 
 One of the keys to building a Web site that serves a wide and diverse audience is ensuring that it is accessible to all users. For example, vision-impaired users may use screen readers to consume content, so Web pages should follow a few simple rules to achieve compatibility with screen readers.
 
-In this challenge, you will learn the basics of building accessible Web sites by answering 10 questions. Feel free to use search to find answers. Once you're done, bring your answers to your group's mentor to recieve points.
+In this challenge, you will learn the basics of building accessible Web sites by answering 10 questions. Feel free to use search to find answers. Once you're done, bring your answers to your group's mentor to receive points.
 
 1.	Screen readers generally can’t comprehend information in images, even though artificial intelligence (AI) is breaking down such barriers. For now, which of the following steps should a Web designer take to ensure that screen readers can convey useful information from images?
 
